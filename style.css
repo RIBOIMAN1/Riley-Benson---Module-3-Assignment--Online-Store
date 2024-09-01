@@ -1,0 +1,22 @@
+body {
+    background-color: #002222;
+}
+body {
+    color: lightpink;
+}
+a:link {
+    color: pink;
+}
+a:visited {
+    color: lightgreen
+}
+a:hover {
+    color: darksalmon
+}
+a:active {
+    color: yellow
+}
+.img25 {
+    height: auto;
+    width: 25%;
+}
