@@ -5,13 +5,13 @@ body {
     color: lightpink;
 }
 a:link {
-    color: palevioletred;
+    color: lightgreen;
 }
 a:visited {
-    color: lightgreen
+    color: rgb(206, 156, 30)
 }
 a:hover {
-    color: darksalmon
+    color: rgb(189, 47, 0)
 }
 a:active {
     color: yellow
@@ -20,10 +20,26 @@ a:active {
     height: auto;
     width: 30%;
 }
+.img90 {
+    height: auto;
+    width: 90%;
+}
 p-span {
     display: block;
 }
 .Center {
     display: block;
     margin: auto;
+}
+.Center-text {
+    text-align: center;
+}
+body {
+    font-family: "Ubuntu"
+}
+.size30 {
+    size: 30px;
+}
+.size40 {
+    size: 40;
 }
